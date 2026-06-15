@@ -1,1 +1,12 @@
 
+id,prompt,difficulty,source
+R001,Why might a company decide to lower prices during an economic recession?,Easy,Custom
+R002,A city's population is growing rapidly while housing construction remains slow. What problems could arise from this situation?,Easy,Custom
+R003,",If a school replaces all printed textbooks with digital versions, what benefits and challenges might students experience?",Medium,Custom
+R004,A small business relies on a single supplier for critical materials. What risks does this create and how could the business reduce them?,Medium,Custom
+R005,Why might raising the price of a luxury product sometimes increase demand rather than decrease it?,Hard,Custom
+R006,"If remote work becomes the dominant work model, how might city centers and local businesses be affected?",Medium,Custom
+R007,A country suddenly bans all gasoline-powered vehicles. What economic and social consequences might occur in the short term?,Hard,Custom
+R008,"Two employees have equal qualifications, but one consistently communicates more clearly with clients. Why might that employee receive better performance reviews?",Easy,Custom
+R009,A company collects large amounts of customer data to improve its services. What trade-offs should it consider when making decisions about data collection?,Hard,Custom
+R0010,Why can a decision that benefits an individual in the short term sometimes be harmful to a group in the long term? Provide an example.,Hard,Custom
