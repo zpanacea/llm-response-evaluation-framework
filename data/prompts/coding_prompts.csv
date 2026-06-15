@@ -1,1 +1,12 @@
 
+id,prompt,difficulty,source
+C001,Write a Python function that removes duplicate elements from a list while preserving order.,Easy,Custom
+C002,Write a JavaScript function that reverses a string.,Easy,Custom
+C003,Write an SQL query to find the top 5 highest-paid employees in a table named Employees.,Easy,Custom
+C004,Explain the difference between a stack and a queue and provide an example use case for each,Easy,Custom
+C005,Write a Python function that calculates the factorial of a positive integer.,Medium,Custom
+C006,Write a Java function that checks whether a string is a palindrome.,Medium,Custom
+C007,Write an SQL query to count the number of orders placed by each customer.,Medium,Custom
+C008,Design an algorithm to find duplicate values in a large dataset and explain its time complexity.,Hard,Custom
+C009,"Compare REST and GraphQL APIs, including advantages and disadvantages of each.",Hard,Custom
+C0010,Design a caching strategy for a high-traffic web application.,Hard,Custom
