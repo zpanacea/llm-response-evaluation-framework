@@ -1,12 +1,11 @@
-
 id,prompt,difficulty,source
-K001,Why might a company decide to lower prices during an economic recession?,Easy,Custom
-K002,A city's population is growing rapidly while housing construction remains slow. What problems could arise from this situation?,Easy,Custom
-K003,",If a school replaces all printed textbooks with digital versions, what benefits and challenges might students experience?",Medium,Custom
-K004,A small business relies on a single supplier for critical materials. What risks does this create and how could the business reduce them?,Medium,Custom
-K005,Why might raising the price of a luxury product sometimes increase demand rather than decrease it?,Hard,Custom
-K006,"If remote work becomes the dominant work model, how might city centers and local businesses be affected?",Medium,Custom
-K007,A country suddenly bans all gasoline-powered vehicles. What economic and social consequences might occur in the short term?,Hard,Custom
-K008,"Two employees have equal qualifications, but one consistently communicates more clearly with clients. Why might that employee receive better performance reviews?",Easy,Custom
-K009,A company collects large amounts of customer data to improve its services. What trade-offs should it consider when making decisions about data collection?,Hard,Custom
-K0010,Why can a decision that benefits an individual in the short term sometimes be harmful to a group in the long term? Provide an example.,Hard,Custom
+K001,Who invented the telephone?,Easy,Custom
+K002,What is the capital of Australia?,Easy,Custom
+K003,Who developed the theory of relativity?,Easy,Custom
+K004,What is the largest ocean on Earth?,Easy,Custom
+K005,What were the primary causes of World War I?,Medium,Custom
+K006,What are the three branches of the United States government?,Medium,Custom
+K007,What is the purpose of the United Nations?,Medium,Custom
+K008,What were the main provisions of the Treaty of Westphalia and why is it considered significant in international relations?,Medium,Custom
+K009,Explain the difference between mitosis and meiosis and describe their biological significance.,Hard,Custom
+K0010,What factors contributed to the collapse of the Soviet Union in 1991?,Hard,Custom
