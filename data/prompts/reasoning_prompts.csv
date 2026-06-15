@@ -1,7 +1,7 @@
 id,prompt,difficulty,source
 R001,Why might a company decide to lower prices during an economic recession?,Easy,Custom
 R002,A city's population is growing rapidly while housing construction remains slow. What problems could arise from this situation?,Easy,Custom
-R003,",If a school replaces all printed textbooks with digital versions, what benefits and challenges might students experience?",Medium,Custom
+R003,"If a school replaces all printed textbooks with digital versions, what benefits and challenges might students experience?",Medium,Custom
 R004,A small business relies on a single supplier for critical materials. What risks does this create and how could the business reduce them?,Medium,Custom
 R005,Why might raising the price of a luxury product sometimes increase demand rather than decrease it?,Hard,Custom
 R006,"If remote work becomes the dominant work model, how might city centers and local businesses be affected?",Medium,Custom
