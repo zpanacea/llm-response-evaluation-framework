@@ -1,1 +1,11 @@
-
+id,prompt,difficulty,source
+M001,Solve for x: 2x + 5 = 17.,Easy,Custom
+M002,A rectangle has a length of 12 cm and a width of 8 cm. What is its area?,Easy,Custom
+M003,What is 15% of 200?,Easy,Custom
+M004,A train travels 180 km in 3 hours. What is its average speed?,Easy,Custom
+M005,Solve for x: 3x - 7 = 14.,Medium,Custom
+M006,A store offers a 20% discount on a $75 item. What is the final price?,Medium,Custom
+M007,The perimeter of a square is 48 cm. What is the length of one side?,Medium,Custom
+M008,"A bag contains 5 red, 3 blue, and 2 green balls. What is the probability of drawing a blue ball?",Hard,Custom
+M009,Solve the quadratic equation: x² - 5x + 6 = 0.,Hard,Custom
+M0010,A car travels 240 km at 60 km/h and then 180 km at 90 km/h. What is the car's average speed for the entire trip?,Hard,Custom
